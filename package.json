@@ -1,0 +1,19 @@
+{
+  "name": "bookmarks-app",
+  "version": "1.0.0",
+  "description": "Bookmarks application with localStorage, sass and parcel bundler",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "es6",
+    "es2015",
+    "parceljs"
+  ],
+  "author": "Edgar Talledos <onimenotsuki@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "parcel-bundler": "^1.6.2"
+  }
+}
