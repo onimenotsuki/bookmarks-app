@@ -1,3 +1,1 @@
-export default () => {
-  console.log('Parcel run with success');
-};
+import './assets/stylesheets/main.scss';
